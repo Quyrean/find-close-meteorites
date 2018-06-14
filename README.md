@@ -6,3 +6,10 @@ demo from python class
 This python 3
 
  `python3 find-meteors.py`
+
+
+First, install pipenv.  Then:
+
+pipenv install
+pipenv run python find_meteors.py
+
